@@ -3,7 +3,7 @@ import { render } from "react-dom";
 import { validate } from "../../src";
 const App = () => (
   <div style={{ textAlign: "center" }}>
-    <h2>validate(inputString, outputString)</h2>
+    <h2>validate(inputString)</h2>
     <center>
       <table style={{ border: "1px solid black" }}>
         <th style={{ border: "1px solid black" }}>

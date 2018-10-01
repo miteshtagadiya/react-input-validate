@@ -1,4 +1,4 @@
-# react-delimiter
+# react-input-validate
 
 Input validation for null, undefined, Infinity and NaN values
 
