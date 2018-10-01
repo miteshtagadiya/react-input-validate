@@ -6,7 +6,7 @@ Object.defineProperty(exports, "__esModule", {
 var validate = exports.validate = function validate(value) {
   if (value === "Infinity" || value === Infinity) {
     return "-";
-  } else if (isNaN(value) || value === "NaN" || value === NaN || value === undefined || value === "undefined" || value === null || value === NULL || value === "NULL" || value === "null") {
+  } else if (isNaN(value) || value === "NaN" || value === NaN || value === undefined || value === "undefined" || value === null) {
     return "N/A";
   } else {
     return value;
