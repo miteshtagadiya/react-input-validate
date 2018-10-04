@@ -1,6 +1,6 @@
 {
   "name": "react-input-validate",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "dependencies": {
     "react-scripts": "1.1.4"
@@ -15,7 +15,7 @@
     "deploy": "gh-pages -d examples/dist",
     "publish-demo": "npm run build && npm run deploy"
   },
-  "description": "Array Delimiter",
+  "description": "Input validation for unexpected inputs",
   "main": "dist/index.js",
   "peerDependencies": {
     "react": "^16.3.0",
@@ -42,10 +42,10 @@
     "url": "git+https://github.com/miteshtagadiya/react-input-validate.git"
   },
   "keywords": [
-    "boilerplate",
-    "code",
-    "for",
-    "package"
+    "Input validation",
+    "Unexpected Input",
+    "Non",
+    "Null"
   ],
   "author": "Mitesh Tagadiya",
   "license": "MIT",
