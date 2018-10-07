@@ -2,7 +2,6 @@ export const validate = value => {
   if (value === "Infinity" || value === Infinity) {
     return "-";
   } else if (
-    isNaN(value) ||
     value === "NaN" ||
     value === NaN ||
     value === undefined ||
@@ -20,7 +19,6 @@ export const validateSign = (value, returnString) => {
   if (value === "Infinity" || value === Infinity) {
     return "";
   } else if (
-    isNaN(value) ||
     value === "NaN" ||
     value === NaN ||
     value === undefined ||
