@@ -1,6 +1,7 @@
 # react-input-validate
 
 [![npm](https://img.shields.io/npm/v/react-input-validate.svg)](https://www.npmjs.com/package/react-input-validate) 
+[![npm](https://img.shields.io/npm/dm/react-input-validate.svg)](https://www.npmjs.com/package/react-input-validate) 
 [![npm](https://img.shields.io/npm/dw/react-input-validate.svg)](https://www.npmjs.com/package/react-input-validate)
 ![npm](https://img.shields.io/npm/l/react-input-validate.svg)
 
